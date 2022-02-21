@@ -57,7 +57,7 @@ weight = 8
 author = "Space Marbella"
 description = "Dunique Marbella, Luxury beachfront Development of apartments and villas"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "images/locog-dunique-marbella.png"
 post_share = true
 social = []
 [params.cookies]
