@@ -1,10 +1,10 @@
 baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
-title = "Meghna"
+theme = "Dunique"
+title = "Dunique Marbella"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -54,8 +54,8 @@ name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Space Marbella"
+description = "Dunique Marbella, Luxury beachfront Development of apartments and villas"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
